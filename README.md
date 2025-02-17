@@ -1,6 +1,6 @@
 <div align="center">
   
-## 🚀 About Me  
+# 🚀 About Me  
 
 👋 Hi, ich bin **Bastian Thoma** <br/>
 🎯 **Interessen**: Webentwicklung, kreative Lösungen und neue Technologien. <br/>

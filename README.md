@@ -4,7 +4,6 @@
 
 👋 Hi, ich bin **Bastian Thoma** <br/>
 🎯 **Interessen**: Webentwicklung, kreative Lösungen und neue Technologien. <br/>
-💻 **Tägliche Arbeit**: Ausbildung zum Frontend-Entwickler mit dem Ziel, Fullstack-Entwickler zu werden. <br/>
 🛠 **Skills**: Frontend-Entwicklung mit JavaScript, TypeScript & Angular. <br/>
 📚 **Lernen & Wachsen**: Ich liebe Herausforderungen und den stetigen Lernprozess in der Softwareentwicklung. <br/>
 ✨ **Fun Fact**: Vom Quereinsteiger zum Entwickler – mit Leidenschaft für Code & Design.

@@ -1,25 +1,40 @@
 <div align="center">
-  
-# 🚀 About Me  
 
-👋 Hi, ich bin **Bastian Thoma** <br/>
-🎯 **Interessen**: Webentwicklung, kreative Lösungen und neue Technologien. <br/>
-🛠 **Skills**: Frontend-Entwicklung mit JavaScript, TypeScript & Angular. <br/>
-📚 **Lernen & Wachsen**: Ich liebe Herausforderungen und den stetigen Lernprozess in der Softwareentwicklung. <br/>
-✨ **Fun Fact**: Vom Quereinsteiger zum Entwickler – mit Leidenschaft für Code & Design.
+# 👋 Hi, ich bin Bastian – Junior Frontend Developer
 
-## 🌐 Socials
+🌱 Vom Quereinstieg zur klaren Code-Struktur – ich baue Frontends mit Angular, TypeScript und Leidenschaft.  
+💡 Ich liebe es, Design und Funktionalität in Einklang zu bringen.  
+🔍 Code ist für mich kein Ziel – sondern Werkzeug für echte Wirkung.
 
-<br>
 
-Check auch hier rein 😉<br>
-[Portfolio Webseite](https://bastian-thoma.de/) <br>
-[LinkedIn](www.linkedin.com/in/bastian-thoma)
-<br>
-<br>
 
-## 💻 Tech Stack
+---
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)  ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)  
+## 🚀 Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🔗 Connect with Me
+
+[🌐 Portfolio](https://bastian-thoma.de/)  
+[💼 LinkedIn](https://www.linkedin.com/in/bastian-thoma)  
+📫 contact@bastian-thoma.de
+
+---
+
+> „Ich lerne nicht nur Tools – ich will sie wirklich verstehen. Code ist für mich kein Selbstzweck, sondern Kommunikation.“
 
 </div>

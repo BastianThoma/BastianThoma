@@ -29,8 +29,7 @@
 
 ## 🔗 Connect with Me
 
-[🌐 Portfolio](https://bastian-thoma.de/)  
-[💼 LinkedIn](https://www.linkedin.com/in/bastian-thoma)  
+[🌐 Portfolio](https://bastian-thoma.de/)   
 📫 contact@bastian-thoma.de
 
 ---
